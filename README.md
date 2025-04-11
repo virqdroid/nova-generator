@@ -18,7 +18,7 @@ NOVA rules help detect and hunt for specific types of prompts based on keywords,
 * Assembles a complete NOVA rule (`.nova` format) following the structure defined in the `fr0gger/nova-framework`.
 * Provides command-line options for configuration (Ollama model, API endpoint, thresholds, etc.).
 
-
+**Running demo with *AkiraBot* prompt from [here](https://www.sentinelone.com/labs/akirabot-ai-powered-bot-bypasses-captchas-spams-websites-at-scale/):** 
 ![nova-generator-running](https://github.com/user-attachments/assets/44ae601c-450f-458f-8d39-35c47aebe753)
 
 
