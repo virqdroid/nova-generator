@@ -18,6 +18,10 @@ NOVA rules help detect and hunt for specific types of prompts based on keywords,
 * Assembles a complete NOVA rule (`.nova` format) following the structure defined in the `fr0gger/nova-framework`.
 * Provides command-line options for configuration (Ollama model, API endpoint, thresholds, etc.).
 
+
+![nova-generator-running](https://github.com/user-attachments/assets/44ae601c-450f-458f-8d39-35c47aebe753)
+
+
 ## Prerequisites
 
 * **Python:** Python 3.7+ installed.
