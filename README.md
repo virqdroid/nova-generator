@@ -29,7 +29,7 @@ NOVA rules help detect and hunt for specific types of prompts based on keywords,
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/nova-generator.git](https://github.com/your-username/nova-generator.git) # Replace with your repo URL
+    git clone [https://github.com/virqdroid/nova-generator.git](https://github.com/virqdroid/nova-generator.git) # Replace with your repo URL
     cd nova-generator
     ```
 2.  **Install dependencies:**
