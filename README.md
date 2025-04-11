@@ -112,10 +112,10 @@ The script performs the following steps:
 
 1. Takes the user prompt and configuration arguments.
 2. Queries the configured Ollama API endpoint:
-    3. To generate a rule description.
-    4. To extract relevant keywords and keyphrases.
-    5. To generate a concise semantic phrase capturing the prompt's intent.
-    6. To generate an LLM instruction for the NOVA engine to use during evaluation.
+3. To generate a rule description.
+4. To extract relevant keywords and keyphrases.
+5. To generate a concise semantic phrase capturing the prompt's intent.
+6. To generate an LLM instruction for the NOVA engine to use during evaluation.
 7. Cleans and formats the responses from Ollama.
 8. Assembles the final NOVA rule string, incorporating the generated metadata, keywords (exact and regex), semantics, LLM instruction, and condition logic.
 9. Prints the rule to the console and optionally saves it to a file.
